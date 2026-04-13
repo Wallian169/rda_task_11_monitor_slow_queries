@@ -9,6 +9,7 @@ CREATE TABLE Products1 (
     Name VARCHAR(50),
     PRIMARY KEY (ID)
 ) ENGINE=InnoDB;
+# inno DB
 
 -- Create test data in Products1 table 
 INSERT INTO Products1 (Name)
